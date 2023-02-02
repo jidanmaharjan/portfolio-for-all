@@ -1,3 +1,7 @@
 .blob--object{
   border-radius: 45% 55% 34% 66% / 51% 33% 67% 49% ;
 }
+
+.blob--object--small{
+  border-radius: 42% 58% 70% 30% / 75% 52% 48% 25%  ;
+}
