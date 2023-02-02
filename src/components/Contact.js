@@ -15,7 +15,7 @@ const Contact = () => {
               marginHeight="0"
               marginWidth="0"
               scrolling="no"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7065.445274572897!2d85.30064052326361!3d27.694966180894504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb18518d4e8021%3A0x92981cbf20e7d934!2sTeku%2C%20Kathmandu%2044600!5e0!3m2!1sen!2snp!4v1674643513784!5m2!1sen!2snp"
+              src="[gmap link]"
               allowFullScreen=""
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
@@ -26,19 +26,17 @@ const Contact = () => {
                 <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs">
                   ADDRESS
                 </h2>
-                <p className="mt-1">Teku, Kathmandu, Nepal</p>
+                <p className="mt-1">[address] Nepal</p>
               </div>
               <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
                 <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs">
                   EMAIL
                 </h2>
-                <a className="text-red-500 leading-relaxed">
-                  sumeetramhrjn@gmail.com
-                </a>
+                <a className="text-red-500 leading-relaxed">[mail]</a>
                 <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">
                   PHONE
                 </h2>
-                <p className="leading-relaxed">9860425958</p>
+                <p className="leading-relaxed">[contact]</p>
               </div>
             </div>
           </div>

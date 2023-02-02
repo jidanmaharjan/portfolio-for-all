@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 //file
-import cv from "../assets/SUMITRA CV.pdf";
+import cv from "../assets/CV.pdf";
 
 //icons
 import { FaGraduationCap } from "react-icons/fa";
@@ -113,10 +113,7 @@ const About = () => {
                 <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">
                   Graduation
                 </h2>
-                <p class="leading-relaxed">
-                  Graduated with Bachelors degree in BIM from National College
-                  of Computer Science
-                </p>
+                <p class="leading-relaxed">[Graduation description]</p>
               </div>
             </div>
           </div>
@@ -133,10 +130,7 @@ const About = () => {
                 <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">
                   Internship
                 </h2>
-                <p class="leading-relaxed">
-                  Joined Intern as Backend Java Developer in Big Brackets Pvt.
-                  Ltd.
-                </p>
+                <p class="leading-relaxed">[Internship Details]</p>
               </div>
             </div>
           </div>

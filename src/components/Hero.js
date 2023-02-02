@@ -16,10 +16,10 @@ const Hero = () => {
             HEY THERE !
           </p>
           <h1 className="title-font sm:text-7xl text-3xl 2xl:text-8xl md:mb-4 font-semibold text-red-500">
-            I AM SUMITRA
+            I AM [NAME]
           </h1>
           <p className="mb-8 leading-relaxed text-2xl 2xl:text-5xl sm:text-3xl font-semibold">
-            QA ENGINEER
+            [POST]
           </p>
           <div className="flex items-center text-3xl 2xl:text-4xl mt-4 2xl:mt-8 text-gray-400">
             <a className="mr-4 hover:text-red-400" href="#">
